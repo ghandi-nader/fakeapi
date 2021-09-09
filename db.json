@@ -2,7 +2,9 @@
   "profiles": [
     {
       "id": 1,
-      "title": "Post 1"
+      "first_name": "Ghandi",
+      "last_name": "Nader",
+      "wallet_point":1500
     },
     {
       "id": 2,
